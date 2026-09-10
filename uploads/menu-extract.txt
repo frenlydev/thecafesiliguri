@@ -1,0 +1,181 @@
+
+
+=== beverageSections ===
+
+## [coffee] Coffee
+INTRO: Custom blends and premium single-origin coffee, custom roasted, crafted from slow manual brews to refined Italian espresso classics.
+ITEM| Manual Brews — Pourover & Others | ₹280 / ₹350 | TAG:House Signature | VAR:Premium single origin; Exclusive reserve
+  D: Single-origin specialty coffee brewed to order using V60 pourover, moka pot, French press, or AeroPress — highlighting clarity and origin character. Ask us about the bean options.
+ITEM| Latte / Flat White / Cappuccino | ₹190 / ₹230 | VAR:Reg; Large
+  D: Smooth espresso with steamed milk and a layer of foam.
+ITEM| Cranberry Coffee | ₹240
+  D: Double shot espresso paired with cranberry juice. Hot or iced.
+ITEM| Espresso / Ristretto / Doppio | ₹120 / ₹160 / ₹170
+  D: A bold, concentrated shot with deep aroma and crema.
+ITEM| Americano | ₹160 / ₹190 | VAR:Single shot; Double shot
+  D: Espresso softened with hot water for a clean, smooth cup. Hot or iced.
+ITEM| House Cold Coffee | ₹190 | ADDON:Add-on: ice cream ₹80
+  D: Chilled coffee blended with ice cream — smooth, creamy, indulgent.
+ITEM| Espresso Sunrise / Sunset | ₹240
+  D: A layered twist of zesty juice topped with a double shot of espresso.
+ITEM| Cold Brew | ₹230 / ₹350 | VAR:Premium; Exclusive reserve
+  D: Slow-steeped for 18+ hours for a smooth, low-acidity cup. Top it up with milk.
+ITEM| Affogato | ₹260
+  D: A scoop of ice cream drowned in a hot shot of espresso.
+ITEM| Coconut Coffee Cloud | ₹240
+  D: Light and tropical — coconut water layered with rich, foamy premium coffee.
+ITEM| Beverage Add-ons | 
+  D: Hazelnut, caramel, or honey syrup ₹50 · decaf option ₹80 · vegan milk (almond, oat) ₹80
+
+## [tea] Tea Bar & Matcha
+INTRO: Loose leaf teas served cup or pot, and stone-ground ceremonial grade Japanese matcha.
+ITEM| Silver Needle White Tea | ₹299 / ₹700 | TAG:Rare Pour | VAR:Cup; Pot
+  D: Handpicked tender buds — silky, delicate, and naturally sweet. High in antioxidants, low in caffeine. The true luxury of teas.
+ITEM| Darjeeling First Flush | ₹170 / ₹400
+  D: The prized first harvest of Darjeeling — light, floral, and elegantly brisk. Ask our hostess about the selections.
+ITEM| Earl Grey | ₹160 / ₹390
+  D: A timeless tea infused with bergamot — fragrant, bright, and refined.
+ITEM| Unique Blue Tea | ₹170 / ₹400
+  D: With aromatic spices — a soothing floral infusion with a striking natural hue and a calm, lingering finish.
+ITEM| Herbal & Green Tea Selection | ₹160 / ₹390
+  D: Lemongrass, hibiscus, chamomile, anti-stress lavender green tea, lemon honey ginger tea, oolong, and more. Ask your server for today's selection.
+
+-- SUB: Matcha
+ITEM| Matcha Latte | ₹220
+  D: Stone-ground matcha blended with milk for an earthy finish. Hot or iced.
+ITEM| Dirty Matcha Latte | ₹299
+  D: A refreshing fusion of matcha and coffee with milk and ice.
+ITEM| Coconut Matcha Cloud | ₹220
+  D: Light and refreshing coconut water with freshly whisked matcha.
+ITEM| Matcha Sunrise | ₹240
+  D: Vibrant layers of matcha and orange — bright, refreshing, captivating.
+ITEM| Signature Matcha Cloud | ₹250 | VAR:Cranberry; Strawberry; Blueberry; Lychee; Watermelon; Peach
+  D: Creamy matcha layered with vibrant fruit — earthy, smooth, and refreshing.
+
+## [coolers] Coolers
+INTRO: Chilled, handcrafted signature blends to beat the heat and keep you feeling light.
+ITEM| Special Coffee Cocktails | ₹450 | TAG:House Signature | VAR:Smoked whiskey sour; Mont Blanc with a twist; Smoked rum cocktail; Espresso martini
+  D: The most premium non-alcoholic cocktails, made with our alcohol-fermented exclusive reserve coffee.
+ITEM| Orange Chilli Margarita | ₹290
+  D: Fresh orange with a gentle chilli kick. Reminds you of sadheko suntala.
+ITEM| Mojito | ₹190 | VAR:Classic Mint; Passion Fruit; Blueberry; Strawberry; Litchi; Watermelon | ADDON:Add-on: matcha ₹80
+  D: Choice of flavours.
+ITEM| Peach Iced Tea | ₹190
+  D: Light, refreshing iced tea infused with sweet peach and lime.
+ITEM| First Flush on the Rocks | ₹220
+  D: The most premium of Darjeeling teas, served over an ice block.
+ITEM| Fresh Lime Soda | ₹160
+  D: Fresh lime and sparkling soda — your way: sweet, salted, or mixed.
+
+## [chocolate] Chocolate Factory
+INTRO: Rich, comforting chocolate creations — hot, cold, and with coffee.
+ITEM| Velvet Hot Chocolate | ₹240
+  D: Rich, velvety hot chocolate crowned with chilled cream — silky, indulgent, and perfectly balanced.
+ITEM| Cold Chocolate Shake | ₹240
+  D: A rich, creamy chocolate shake blended thick for a smooth, decadent finish. Vanilla or strawberry also available.
+ITEM| Mocha | ₹240
+  D: The perfect latte with rich chocolate and house espresso, hot or iced.
+
+
+=== foodSections ===
+
+## [appetizers] To Share
+INTRO: A selection of special appetizers to start your table with.
+ITEM| Mustangey Aloo | ₹230/₹320 | TAG:House Signature | VAR:Veg; Chicken
+  D: Crispy potatoes tossed with aromatic Himalayan spices, roasted chilli, garlic, and fresh herbs.
+ITEM| Himalayan Chicken | ₹280
+  D: Mountain-style chicken starter infused with Himalayan herbs and spices.
+ITEM| Pahade Pakoda | ₹200 / ₹220 / ₹280 | VAR:Veg; Paneer; Chicken
+  D: Crisp, golden fritters, gently spiced and served with a refined chutney.
+ITEM| Himalayan Crispy Wings / Lollipop | ₹320
+  D: Crisp chicken wings with a juicy centre, optionally finished with a Himalayan chilli-garlic glaze.
+ITEM| Crispy Fried Chicken Breast | ₹370
+  D: Tender chicken breast coated in a crisp golden crust, seasoned with aromatic herbs and spices, and fried until perfectly juicy.
+ITEM| Bruschetta | ₹260 | ADDON:Add-on ₹80 each: bacon, ham, salami, mozzarella
+  D: Crispy sourdough bread topped with herbed cheese, juicy tomatoes, fresh basil, and cracked pepper.
+ITEM| Crispy Fried Prawn | ₹450
+  D: Crispy golden prawns, lightly seasoned and fried to perfection, served with a zesty house dip.
+ITEM| Cheesy Pull-Apart Bruschetta | ₹360
+  D: Golden toasted sourdough topped with melted mozzarella, juicy tomatoes, fresh basil, and cracked pepper, made for pulling apart and sharing.
+ITEM| Mountain Gold Fries | ₹140 / ₹160 / ₹220 | VAR:Classic; Peri peri; Cheese loaded
+  D: Crisp, golden fries, lightly salted and perfectly fried — simple, satisfying, and made for easy comfort.
+
+## [himalayas] From the Himalayas
+INTRO: Himalayan comfort, simply served on your table.
+ITEM| Thukpa | ₹150 / ₹180 | TAG:The Himalayan Experience | VAR:Veg; Chicken | ADDON:Add-on: eggs ₹70
+  D: The hills in a bowl — a calm, nourishing noodle soup with fresh vegetables in a clear broth. Tibetan origin, Darjeeling adaptation.
+ITEM| Juicy Chicken Momo | ₹190 / ₹220 / ₹270 | VAR:Steamed; Fried; Jhol
+  D: Large Himalayan dumplings filled with juicy minced chicken and Himalayan spices, paired with a spicy chutney.
+ITEM| Himalayan Garden Veg Momo | ₹160 / ₹190 / ₹240 | VAR:Steamed; Fried; Jhol
+  D: Large Himalayan dumplings with fresh local vegetables, served with house-made chilli chutney.
+ITEM| Crispy Faley (2 pieces) | ₹150 / ₹180 | VAR:Veg; Chicken | ADDON:Add-on: extra cheese ₹50
+  D: Golden, flaky pockets with a flavourful vegetable or chicken filling and a house dip made with Himalayan chillies.
+ITEM| Handmade Thenthuk | ₹250 / ₹280 / ₹310 / ₹350 / ₹380 | VAR:Veg; Egg; Chicken; Prawn; Mixed
+  D: A traditional Tibetan hand-pulled flat noodle soup, known for its hearty qualities.
+ITEM| Local House Noodles | ₹180 / ₹220 / ₹250 / ₹290 / ₹320 | VAR:Veg; Egg; Chicken; Prawn; Mixed
+  D: Wok-tossed noodles with fresh vegetables, lightly seasoned and balanced with aromatics.
+ITEM| House Fried Rice | ₹180 / ₹220 / ₹250 / ₹290 / ₹320 | VAR:Veg; Egg; Chicken; Prawn; Mixed
+  D: Fragrant rice tossed with crisp vegetables, garlic, and a light soy touch — subtle, smoky, comforting.
+ITEM| Chilli Paneer / Chilli Chicken | ₹260 / ₹280
+  D: Crispy paneer or tender chicken in a bold chilli glaze with peppers and onions.
+ITEM| Soup | ₹140 / ₹170 | VAR:Veg; Chicken
+  D: Manchow, hot and sour, sweet corn, or clear.
+
+## [global] From Around the Globe
+INTRO: Global classics — from authentic kitchens of France to Italy.
+ITEM| The Global Grill Meat Platter | ₹550 | TAG:For the Table | ADDON:Add-on: prawns ₹180
+  D: Smoky, savoury, and satisfying. Bacon, ham, chicken, choice of eggs, sausages. Served with black tea or coffee.
+ITEM| Pancakes | ₹320 | ADDON:Add-on: protein powder ₹130 · sausages / French omelette ₹150
+  D: A fluffy stack of three golden pancakes, served warm with honey or maple syrup.
+ITEM| Grilled Cheese or Club Sandwich | ₹220 / ₹270 | ADDON:Protein add-ons ₹80 each: eggs, chicken, sausage, bacon · extra veggies/cheese/soya ₹40 each
+  D: Served with a side of house-made fries. Condiments: mayo, chilli mayo, mustard, ketchup.
+ITEM| Full English Breakfast | ₹399 | ADDON:Add-ons: mashed potatoes, bacon, grilled chicken ₹190
+  D: Eggs, sausages, fries, sautéed veggies, grilled tomatoes, and buttered toast.
+ITEM| Golden Classic French Toast | ₹270 | ADDON:Add-ons ₹150 each: French omelette, sausage, ice cream
+  D: Rich custard-soaked thick-cut bread, pan-seared to a golden finish, honey drizzled on top.
+ITEM| Stuffed French Omelette | ₹290 | VAR:Sausages; Bacon; Ham; Chicken; Cheese
+  D: Delicate and soft, served with garlic bread. Choose any two stuffings.
+ITEM| Sausages and Eggs | ₹340 | ADDON:Add-on: upgrade to meat platter
+  D: Craving a lot of sausages? Here you go.
+ITEM| Spicy Ramen Bowl | ₹320 | ADDON:Add-ons: cheese ₹50 · sausage/chicken/bacon ₹90
+  D: Your favourite ramen with a sunny-side-up or classic boiled egg, made in-house.
+ITEM| Italian Classic Pasta | ₹270 / ₹290 | VAR:Veg; Chicken
+  D: Penne or spaghetti in Arrabbiata (spicy tomato) or Alfredo (cream and parmesan) sauce.
+ITEM| Fish and Chips | ₹380
+  D: Crispy battered fish served hot with herb-dusted potato wedges, greens, and house dip.
+ITEM| Classic American Burger | ₹250 / ₹300 | VAR:Veg; Chicken
+  D: Juicy house-made grilled patty, crisp lettuce, soft bun, signature sauce. Served with fries.
+ITEM| Salad Bowl | ₹280 | ADDON:Protein add-ons: chicken / eggs (3) / paneer / avocado ₹90 · prawns ₹180
+  D: From the fitness menu. Might be the best salad bowl you've had.
+
+## [sizzlers] Sizzlers & Rice Bowls
+INTRO: Wok-tossed and smoky, built for a hearty meal.
+ITEM| Chinese Sizzler / Rice Bowl | ₹550 / ₹450 | VAR:Veg; Chicken
+  D: Wok-tossed, stir-fried flavours in a bold soy-garlic sauce, served hot with noodles or fried rice, crisp veggies, and fries.
+ITEM| Mexican Sizzler / Rice Bowl | ₹550 / ₹450 | VAR:Veg; Chicken
+  D: Smoky, spiced platter or bowl with Mexican-style sauce, served with rice, sautéed veggies, garlic bread, and fries.
+
+## [desserts] Desserts & Bakery
+INTRO: Something sweet, something warm, and a few things worth taking home.
+ITEM| Sizzling Brownie with Ice Cream | ₹360 | TAG:Chef's Special
+  D: This one has always been a hit since the 90's! Try it.
+ITEM| Dahi Chiwra | ₹160
+  D: Authentic Himalayan comfort dessert. Flattened rice served with house yogurt and jaggery. Feels like home.
+ITEM| Fruit Custard | ₹190
+  D: Creamy goodness of milk, egg, and seasonal fruits.
+ITEM| Baked Pudding | ₹290 | ADDON:Add-on: ice cream ₹90 per scoop
+  D: A warm, melt-in-your-mouth baked pudding with a rich, silky texture and a delicate caramel finish.
+ITEM| Ice Cream / Fried Ice Cream | ₹150 / ₹250
+  D: Ask us about the selections of the day.
+ITEM| Brownie Affogato | ₹280
+  D: Warm, fudgy brownie topped with creamy vanilla ice cream and a shot of rich espresso poured over it.
+ITEM| Tiramisu | ₹290
+  D: Classic Italian comfort dessert. Espresso, mascarpone cheese, soft melt-in-your-mouth feeling.
+
+-- SUB: Fresh from the Bakery
+ITEM| Banana Bread | ₹95
+  D: House-made, indulgent and moist.
+ITEM| Chocolate Chip Cookies | ₹50 – ₹140
+  D: House-made buttery and chocolaty cookies. Ask us about today's selections.
+ITEM| Muffin | ₹130
+  D: House-made premium muffins.
